@@ -31,10 +31,12 @@ body {
 	margin: 0 0 0 20px;
 	background: #FFF;
 }
+
 .opniao {
 	text-align: center;
-	background-color: #FF8C00;
 	font-family: verdana;
+	border: 1px solid gray;
+	padding: 8px;
 }
 
 #rodape {
@@ -69,3 +71,39 @@ li {
     font-weight: bold;
 	text-transform: uppercase;
 }
+.formcontato {
+	margin: 30px;
+	font-weight: bold;
+	font-family: verdana;
+}
+
+input[type="email"] {
+     width: 300px;
+     display: block;
+     margin-bottom: 10px;
+     border-color: #FF8C00;
+     height: 20px;
+ }
+
+ textarea {
+     width: 300px;
+     display: block;
+     margin-bottom: 10px;
+     border-color: #FF8C00;
+ }
+
+input[type="submit"] {
+     width: 70px;
+     margin-left: 220px;
+     display: block;
+     height: 25px;
+ }
+
+ input[type="texto"] {
+     width: 300px;
+     margin-bottom: 10px;
+     display: block;
+     border-color: #FF8C00;
+     height: 20px;
+     font-weight: bold;
+	 font-family: verdana;
