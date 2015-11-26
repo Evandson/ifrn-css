@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #ddd;
+}
+
+#pagina {
+	margin: 1em auto;
+	width: 950px;
+	background: #fff
+}
+
+#cabecalho {
+	background: #48B;
+}
+
+#menusuperior {
+	background: #C54;
+}
+
+#menulateral {
+	float: right;
+	width: 200px;
+	height: 200px;
+	background: #F94;
+}
+
+#conteudo {
+	float: left;
+	width: 710px;
+	margin: 0 0 0 20px;
+	background: #FFC;
+}
+
+#rodape {
+	clear:both;
+	background: #9B5;
+}

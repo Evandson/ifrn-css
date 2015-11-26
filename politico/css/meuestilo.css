@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #ddd;
+}
+
+#pagina {
+	margin: 1em auto;
+	width: 950px;
+	background: #fff
+}
+#cabecalho {
+}
+
+#menusuperior {
+	background: #808080;
+	height: 50px;
+	text-align: center;
+}
+
+#menulateral {
+	float: right;
+	width: 200px;
+	height: 200px;
+	background: #FFF;
+}
+
+#conteudo {
+	float: left;
+	width: 710px;
+	margin: 0 0 0 20px;
+	background: #FFF;
+}
+.opniao {
+	text-align: center;
+	background-color: #FF8C00;
+	font-family: verdana;
+}
+
+#rodape {
+	clear:both;
+	background: #FF8C00;
+	text-align: center;
+	color: #000000;
+	font-weight: bold;
+}
+
+a:hover{
+	background-color: #D2691E;	
+}
+
+a {
+	text-decoration: none;
+	display: block;
+    width: 150px;
+    background-color: #808080;
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:15px;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    font-weight: bold;
+	text-transform: uppercase;
+}
