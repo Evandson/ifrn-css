@@ -6,7 +6,7 @@ body {
 
 #pagina {
 	margin: 1em auto;
-	width: 950px;
+	width: 1200px;
 	background: #fff
 }
 
@@ -37,13 +37,13 @@ body {
 	background: #9B5;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 900px) {
 	#pagina {width: 100%; }
-	#conteudo, #menulateral, {width: 100%; float:none; margin: 0; }
-	#menulateral { height: auto;}
+	#conteudo, #menulateral {width: 100%; float: none; margin: 0; }
+	#menulateral { height: auto; }
 }
 
-@media screen and (max-width: 400px){
-	#menulateral {display: none;}
+@media screen and (max-width: 400px) {
+	#menulateral { display: none; }
 	#body  {font-size:120;}
 }
