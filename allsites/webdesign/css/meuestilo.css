@@ -1,0 +1,94 @@
+#header {
+    background-color:black;
+    padding:5px;
+}
+#nav1 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:400px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+#nav2 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:400px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+#nav3 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:500px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+#nav4 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:350px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+#nav5 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:800px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+#nav6 {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:350px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:350px;
+    width:200px;
+    float:left;
+    padding:5px;  
+}
+.icone{
+    width: 100%;
+}
+.ari{
+    float: left;
+    padding: 85px;
+}
+.prof{
+    padding: 15px;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+.horarios{
+    right: 100px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+    width: 60%		 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}

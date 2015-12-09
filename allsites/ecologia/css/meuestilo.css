@@ -1,0 +1,42 @@
+body {
+	background-image: url(../imagens/pulmao.jpg); 
+	background-size: 100%
+}
+#header {
+    padding:5px;
+}
+#section {
+    padding:20px;		 
+}
+#footer {
+    background-color:#228B22;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+#menu {
+text-align: center;
+}
+h3 {
+	text-align: center;
+}
+.floresta{
+	background-image: url(../imagens/pulmao2.png); 
+	background-size: 180%;
+}
+.paginatexto{
+	text-align: center;
+}
+.parceiros {
+	background-image: url(../imagens/pulmao3.png);
+}
+.titlecontato{
+	text-align: center;
+}
+.formcontato{
+	text-align: center;
+}
+.contato{
+	background-image: url(../imagens/pulmao4.png);
+}
