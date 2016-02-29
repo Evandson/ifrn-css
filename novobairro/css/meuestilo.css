@@ -9,7 +9,7 @@ body {
 .nav:after {
     content: "";
     clear: both;
-    display: block;
+
 }
 
 [class*="col-"] {
